@@ -90,8 +90,8 @@
 
 
     <div class="footer2">
-      <p> By Yancey 仅供计算机设计大赛作品使用</p>
-      <a href="https://beian.miit.gov.cn">备案号: 鄂ICP备2024050350号-2 | </a>
+      <p> By Yancey </p>
+      <a href="https://beian.miit.gov.cn">| </a>
     </div>
   </div>
 </template>
